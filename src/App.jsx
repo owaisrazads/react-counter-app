@@ -6,7 +6,6 @@ const App = () => {
 let [num , setNum] = useState(0)
 
 
-
   const addBtn = () => {
 
     // num = num + 1
